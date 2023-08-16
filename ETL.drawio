@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="SssPdvJuQv50n5l2qz8U" name="Page-1">
+        <mxGraphModel dx="629" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="7" style="edgeStyle=none;html=1;entryX=0.342;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="2" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="Bank Of Canada&amp;nbsp;&lt;br&gt;API" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#3333FF;fillColor=#3399FF;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="260" y="80" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" style="edgeStyle=none;html=1;fontStyle=1" edge="1" parent="1" source="3" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="Expenses.xlsx&lt;br&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#33FFFF;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="80" y="200" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;fontStyle=1" edge="1" parent="1" source="4" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="ETL_process.py&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#33FF99;strokeColor=#82b366;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="260" y="210" width="110" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="ETL&lt;br&gt;Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#FF6666;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
+                    <mxGeometry x="450" y="200" width="70" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
